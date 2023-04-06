@@ -1,0 +1,20 @@
+
+
+.box {
+    border: 1px solid #ccc;
+}
+
+/*p {*/
+/*    margin-top: 0.75em;*/
+/*    text-align: justify;*/
+/*    margin-bottom: 0.75em;*/
+/*    text-indent: 1em;*/
+/*}*/
+
+/*!*p {*!*/
+/*!*    display: block;*!*/
+/*!*    margin-block-start: 1em;*!*/
+/*!*    margin-block-end: 1em;*!*/
+/*!*    margin-inline-start: 0px;*!*/
+/*!*    margin-inline-end: 0px;*!*/
+/*!*}*!*/
